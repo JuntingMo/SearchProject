@@ -7,7 +7,7 @@ import lombok.EqualsAndHashCode;
 import java.io.Serializable;
 
 /**
- * 图片查询请求
+ * 全部的查询请求
  *
  */
 @EqualsAndHashCode(callSuper = true)
@@ -15,7 +15,7 @@ import java.io.Serializable;
 public class SearchRequest extends PageRequest implements Serializable {
 
     /**
-     * 搜索词
+     * 统一搜索词
      */
     private String searchText;
 

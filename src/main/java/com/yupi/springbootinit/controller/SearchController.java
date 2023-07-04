@@ -29,7 +29,7 @@ import java.util.List;
 import java.util.concurrent.CompletableFuture;
 
 /**
- * 图片接口
+ * 聚合搜索Controller
  */
 @RestController
 @RequestMapping("/search")

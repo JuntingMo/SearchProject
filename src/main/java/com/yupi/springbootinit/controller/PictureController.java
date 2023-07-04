@@ -15,7 +15,7 @@ import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
 
 /**
- * 图片接口
+ * 图片Controller
  *
  */
 @RestController

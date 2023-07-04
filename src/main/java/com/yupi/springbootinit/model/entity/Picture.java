@@ -5,7 +5,7 @@ import lombok.Data;
 import java.io.Serializable;
 
 /**
- * 图片
+ * 图片实体
  */
 
 @Data
