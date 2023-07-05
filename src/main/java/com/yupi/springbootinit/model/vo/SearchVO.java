@@ -1,5 +1,6 @@
 package com.yupi.springbootinit.model.vo;
 
+import com.baomidou.mybatisplus.extension.plugins.pagination.Page;
 import com.google.gson.Gson;
 import com.google.gson.reflect.TypeToken;
 import com.yupi.springbootinit.model.entity.Picture;
@@ -23,6 +24,8 @@ public class SearchVO implements Serializable {
     private List<PostVO> postList;
 
     private List<Picture> pictureList;
+
+    private List<?> dataList;
 
     private static final long serialVersionUID = 1L;
 }
