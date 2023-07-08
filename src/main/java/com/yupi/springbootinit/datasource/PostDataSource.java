@@ -49,6 +49,8 @@ import java.util.stream.Collectors;
 /**
  * 帖子服务实现
  *
+ * @author Junting
+ *
  */
 @Service
 @Slf4j

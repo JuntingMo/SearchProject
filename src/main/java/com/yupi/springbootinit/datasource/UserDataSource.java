@@ -33,6 +33,8 @@ import static com.yupi.springbootinit.constant.UserConstant.USER_LOGIN_STATE;
 /**
  * 用户服务实现
  *
+ * @author Junting
+ *
  */
 @Service
 @Slf4j

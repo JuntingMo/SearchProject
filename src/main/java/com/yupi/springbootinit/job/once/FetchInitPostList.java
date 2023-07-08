@@ -21,8 +21,8 @@ import java.util.stream.Collectors;
 /**
  * 获取初始贴子列表
  *
- * @author <a href="https://github.com/liyupi">程序员鱼皮</a>
- * @from <a href="https://yupi.icu">编程导航知识星球</a>
+ * @author Junting
+ *
  */
 // todo 取消注释开启任务
 //取消 @Component 注释后, 每次启动 SpringBoot 项目会执行一次 run 方法

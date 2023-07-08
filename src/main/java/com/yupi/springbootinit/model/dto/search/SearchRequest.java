@@ -9,6 +9,8 @@ import java.io.Serializable;
 /**
  * 全部的查询请求
  *
+ *@author Junting
+ *
  */
 @EqualsAndHashCode(callSuper = true)
 @Data

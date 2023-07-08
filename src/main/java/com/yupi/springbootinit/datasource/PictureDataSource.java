@@ -19,6 +19,8 @@ import java.util.Map;
 /**
  * 图片服务实现类
  *
+ * @author Junting
+ *
  */
 
 @Service

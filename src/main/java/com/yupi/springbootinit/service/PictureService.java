@@ -14,6 +14,8 @@ import java.util.List;
 /**
  * 图片服务接口
  *
+ * @author Junting
+ *
  */
 public interface PictureService{
 

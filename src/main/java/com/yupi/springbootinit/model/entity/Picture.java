@@ -6,6 +6,9 @@ import java.io.Serializable;
 
 /**
  * 图片实体
+ *
+ * @author Junting
+ *
  */
 
 @Data

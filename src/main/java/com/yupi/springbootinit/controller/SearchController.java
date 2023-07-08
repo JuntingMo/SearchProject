@@ -33,6 +33,9 @@ import java.util.concurrent.CompletableFuture;
 
 /**
  * 聚合搜索Controller
+ *
+ * @author Junting
+ *
  */
 @RestController
 @RequestMapping("/search")

@@ -9,6 +9,8 @@ import java.util.stream.Collectors;
 /**
  * 搜索类型枚举
  *
+ * @author Junting
+ *
  */
 public enum SearchTypeEnum {
 

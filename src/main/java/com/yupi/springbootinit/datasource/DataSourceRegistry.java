@@ -9,6 +9,12 @@ import javax.annotation.Resource;
 import java.util.HashMap;
 import java.util.Map;
 
+/**
+ *
+ * @author Junting
+ *
+ */
+
 @Component
 public class DataSourceRegistry {
     @Resource

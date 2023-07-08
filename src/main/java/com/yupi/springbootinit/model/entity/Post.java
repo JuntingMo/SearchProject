@@ -12,6 +12,8 @@ import lombok.Data;
 /**
  * 帖子
  *
+ * @author Junting
+ *
  */
 @TableName(value = "post")
 @Data

@@ -15,6 +15,8 @@ import java.util.List;
 /**
  * 聚合搜索
  *
+ * @author Junting
+ *
  */
 @Data
 public class SearchVO implements Serializable {

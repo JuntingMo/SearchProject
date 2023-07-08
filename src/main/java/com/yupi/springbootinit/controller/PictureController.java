@@ -17,6 +17,8 @@ import javax.servlet.http.HttpServletRequest;
 /**
  * 图片Controller
  *
+ * @author Junting
+ *
  */
 @RestController
 @RequestMapping("/picture")

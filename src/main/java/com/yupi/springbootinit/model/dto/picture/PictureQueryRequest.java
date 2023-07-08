@@ -10,6 +10,8 @@ import java.util.List;
 /**
  * 图片查询请求
  *
+ * @author Junting
+ *
  */
 @EqualsAndHashCode(callSuper = true)
 @Data
