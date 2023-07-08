@@ -52,9 +52,9 @@ public class PostEsDaoTest {
     @Test
     void testAdd() {
         PostEsDTO postEsDTO = new PostEsDTO();
-        postEsDTO.setId(1L);
-        postEsDTO.setTitle("testES");
-        postEsDTO.setContent("testES内容");
+        postEsDTO.setId(3L);
+        postEsDTO.setTitle("我是小鸡子");
+        postEsDTO.setContent("这是第三个测试ES的项目内容，项目的内容不重要");
         postEsDTO.setTags(Arrays.asList("java", "python"));
         postEsDTO.setUserId(1L);
         postEsDTO.setCreateTime(new Date());
