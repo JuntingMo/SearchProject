@@ -8,9 +8,9 @@
 
 对于企业来说，当企业需要扩展更多搜索项目时，无需针对每个搜索项目单独开发搜索功能，可以直接将各个项目的数据接入搜索中台，提高开发效率、降低维护成本。
 
-后端项目地址：
+后端项目地址：https://github.com/JuntingMo/SearchProject
 
-前端项目地址：
+前端项目地址：https://github.com/JuntingMo/SearchProject-frontend
 
 搜文章：
 
