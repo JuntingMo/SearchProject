@@ -14,7 +14,7 @@
 
 搜文章：
 
-![result1](F:\javalearning\Project\springboot-init-master\Figure\result1.png)
+Figure/result1.png
 
 搜图片：
 
