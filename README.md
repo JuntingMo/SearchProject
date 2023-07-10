@@ -14,23 +14,24 @@
 
 搜文章：
 
-<img width="1280" alt="result1" src="https://github.com/JuntingMo/SearchProject/assets/81761514/7b53e7df-67e4-4e45-a062-af0a933623c3">
+![image](https://github.com/JuntingMo/SearchProject/blob/master/Figure/result1.png)
 
 
 搜图片：
 
-<img width="1280" alt="result2" src="https://github.com/JuntingMo/SearchProject/assets/81761514/be5f7835-6cbc-4125-8ddb-f65eb2b172ce">
+![image](https://github.com/JuntingMo/SearchProject/blob/master/Figure/result2.png)
+
 
 
 
 搜用户：
 
-<img width="1280" alt="result3" src="https://github.com/JuntingMo/SearchProject/assets/81761514/73e0e540-0069-488c-8de5-72152d5ad8a9">
+![image](https://github.com/JuntingMo/SearchProject/blob/master/Figure/result3.png)
 
 
 ## 项目架构图
 
-![architecture](https://github.com/JuntingMo/SearchProject/assets/81761514/fd3e9bbd-d8a3-4992-adbf-fce7095ce29b)
+![image](https://github.com/JuntingMo/SearchProject/blob/master/Figure/architecture.png)
 
 
 ## 技术栈
